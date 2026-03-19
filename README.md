@@ -3,10 +3,11 @@
 A full-stack Expense Tracker built using the MERN stack.
 
 ## 🚀 Features
-- Add, Edit, Delete expenses
-- Category-wise tracking
-- Total expense calculation
-- Pie chart visualization 📊
+- ➕ Add, Edit, Delete expenses
+- 📊 Category-wise expense tracking
+- 💰 Total expense calculation
+- 📈 Interactive Pie Chart visualization
+- ⚡ Real-time updates
 
 ## 🛠 Tech Stack
 - Frontend: React.js, Chart.js
@@ -15,7 +16,7 @@ A full-stack Expense Tracker built using the MERN stack.
 - API: Axios
 
 ## 📸 Demo
-(Add screenshots here later)
+
 
 ## ⚙️ Installation
 
